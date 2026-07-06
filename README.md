@@ -16,12 +16,9 @@ I'm a final-year **B.Tech student in Computer Science (AI & Data Science)** at R
 
 My work spans full-stack AI products — from real-time multi-agent triage systems to retrieval-augmented career platforms — and academic research, including a first-author paper accepted at **IEEE IC3ET 2026** on trust-adaptive clinical AI.
 
-- 🎓 B.Tech CS (AI & DS), D.Y. Patil University — CGPA 9.64/10
 - 📄 First author, *Trust-Adaptive AI for Clinical Decision Support* — IEEE IC3ET 2026
-- 🏆 Samsung Innovation Campus (SIC) certified in AI & emerging technologies
 - 🔭 Currently building agentic, tool-using AI systems and exploring AI alignment & interpretability
-- 🌱 Ongoing Data Science & AI training (Intellipaat) — deepening ML/data workflows
-
+  
 ---
 
 ### 🛠️ Tech Stack
