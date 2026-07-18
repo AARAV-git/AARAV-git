@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer · Agentic Systems Builder · Researcher</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sunny-pathak"><img src="https://img.shields.io/badge/LinkedIn-sunny--pathak-blue?logo=linkedin&style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/sunny-pathak-ba7869318"><img src="https://img.shields.io/badge/LinkedIn-sunny--pathak-blue?logo=linkedin&style=flat-square"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sunnypathak979@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=for-the-badge"/>
   </a>
