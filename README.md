@@ -3,7 +3,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sunny-pathak"><img src="https://img.shields.io/badge/LinkedIn-sunny--pathak-blue?logo=linkedin&style=flat-square"/></a>
-  <a href="mailto:sunnypathak979@gmail.com"><img src="https://img.shields.io/badge/Email-sunnypathak979%40gmail.com-red?logo=gmail&style=flat-square"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sunnypathak979@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=for-the-badge"/>
+  </a>
   <!-- <img src="https://img.shields.io/badge/CGPA-9.64%2F10-brightgreen?style=flat-square"/> -->
   <img src="https://img.shields.io/badge/IEEE-IC3ET%202026%20Author-orange?style=flat-square"/>
 </p>
