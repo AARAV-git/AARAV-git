@@ -94,7 +94,7 @@ Agentic AI · AI Alignment & Interpretability · Machine Learning · Statistical
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sunny-pathak"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/sunny-pathak-ba7869318/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="mailto:sunnypathak979@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=for-the-badge"/></a>
   <a href="https://github.com/AARAV-git"><img src="https://img.shields.io/badge/GitHub-Explore%20Repos-black?logo=github&style=for-the-badge"/></a>
 </p>
