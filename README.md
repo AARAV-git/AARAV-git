@@ -22,8 +22,8 @@
   <!-- <img src="https://img.shields.io/badge/CGPA-9.63%2F10-brightgreen?style=flat-square"/> -->
 
   <a href="https://doi.org/10.1109/IC3ET64989.2026.11467552">
-    <img src="https://img.shields.io/badge/IEEE-IC3ET%202026-Published-blue?style=flat-square&logo=ieee" alt="IEEE IC3ET 2026 Published"/>
-  </a>
+  <img src="https://img.shields.io/badge/📄%20IEEE%20Paper-Published-success?style=for-the-badge" alt="IEEE Paper Published"/>
+</a>
 </p>
 
 ---
