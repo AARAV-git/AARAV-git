@@ -1,13 +1,29 @@
 <h1 align="center">Hi 👋, I'm Sunny Pathak</h1>
 <h3 align="center">AI/ML Engineer · Agentic Systems Builder · Researcher</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/sunny-pathak-ba7869318"><img src="https://img.shields.io/badge/LinkedIn-sunny--pathak-blue?logo=linkedin&style=flat-square"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sunnypathak979@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=for-the-badge"/>
   </a>
-  <!-- <img src="https://img.shields.io/badge/CGPA-9.64%2F10-brightgreen?style=flat-square"/> -->
-  <img src="https://img.shields.io/badge/IEEE-IC3ET%202026%20Author-orange?style=flat-square"/>
+    <!-<img src="https://img.shields.io/badge/CGPA-9.64%2F10-brightgreen?style=flat-square"/> 
+   <img src="https://img.shields.io/badge/IEEE-IC3ET%202026%20Author-orange?style=flat-square"/> 
+  [![IEEE IC3ET 2026 Published](https://img.shields.io/badge/IEEE-IC3ET%202026-Published-blue?style=flat-square&logo=ieee)](https://doi.org/10.1109/IC3ET64989.2026.11467552)
+</p>  -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunny-pathak-ba7869318">
+    <img src="https://img.shields.io/badge/LinkedIn-sunny--pathak-blue?logo=linkedin&style=flat-square"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sunnypathak979@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=for-the-badge"/>
+  </a>
+
+  <!-- <img src="https://img.shields.io/badge/CGPA-9.63%2F10-brightgreen?style=flat-square"/> -->
+
+  <a href="https://doi.org/10.1109/IC3ET64989.2026.11467552">
+    <img src="https://img.shields.io/badge/IEEE-IC3ET%202026-Published-blue?style=flat-square&logo=ieee" alt="IEEE IC3ET 2026 Published"/>
+  </a>
 </p>
 
 ---
